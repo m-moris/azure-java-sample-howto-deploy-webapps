@@ -1,4 +1,4 @@
-# Azure WebApps に Spring Boot アプリケーションをデプロイする色々な方法
+# 色々な Azure WebApps に Spring Boot アプリケーションをデプロイする方法
 
 Azure WebApps は複数のOS（Windows、Linux）と複数のアプリケーションコンテナをサポートしています。それぞれのAzure WebAppsにデプロイする最小コードのサンプルです。
 
